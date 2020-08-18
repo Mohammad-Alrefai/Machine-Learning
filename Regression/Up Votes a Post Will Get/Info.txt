@@ -1,0 +1,16 @@
+Random Forest Regressor
+
+
+MAE	     MSE	 R^2	RMSLE
+
+112.369	  1707382.705	0.886	0.789
+
+
+
+0    ID          330045 non-null  int64  
+ 1   Tag         330045 non-null  object 
+ 2   Reputation  330045 non-null  float64
+ 3   Answers     330045 non-null  float64
+ 4   Username    330045 non-null  int64  
+ 5   Views       330045 non-null  float64
+ 6   Upvotes     330045 non-null  float64  (Target)
