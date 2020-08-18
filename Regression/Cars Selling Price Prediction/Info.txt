@@ -1,0 +1,15 @@
+Light Gradient Boosting Machine 
+
+ MAE	              MSE	            RMSE	  R2	 RMSLE	 MAPE
+
+116456.5762	53553897296.5463	227324.3752	0.8034	0.3537	0.2903
+
+
+
+Features :
+
+name	   year	     selling_price	  km_driven	fuel	 seller_type	 transmission	  owner
+(Brand)
+
+type                   (Target)       
+Object    Numeric      Numeric             Numeric     Object      Object         Object         Object
