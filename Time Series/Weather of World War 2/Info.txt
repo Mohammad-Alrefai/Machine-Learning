@@ -1,0 +1,22 @@
+Random Forest Regressor
+
+    MAE                               MSE                         R2_score
+
+0.058806394029967915         0.04852704129890173              0.9992814010945558
+
+
+
+
+
+
+
+
+ 0   MaxTemp   119040 non-null  float64
+ 1   MinTemp   119040 non-null  float64
+ 2   MeanTemp  119040 non-null  float64
+ 3   Year      119040 non-null  int64  
+ 4   Month     119040 non-null  int64  
+ 5   Day       119040 non-null  int64  
+ 6   DW        119040 non-null  int64  
+ 7   DY        119040 non-null  int64  
+ 8   WY        119040 non-null  int64  
