@@ -1,0 +1,12 @@
+I applied many algorithms but the best algorithm...
+
+XGBRegressor
+
+
+
+
+       MAE                     MSE                    R2
+      0.044                   0.004                 0.826
+
+
+Just Look and enjoy!
